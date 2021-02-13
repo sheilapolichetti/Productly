@@ -5,6 +5,15 @@
 
 }
 
+.img-leftlayout {
+    display: flex;
+}
+
+.text-rightlayout {
+
+
+}
+
 .btn-header {
     display: flex;
     justify-content: flex-end;
