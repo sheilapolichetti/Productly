@@ -51,6 +51,17 @@
     border-radius: 4px;
 }
 
+.btn-signup {
+    width: 175px;
+    height: 53px;
+    color: white;
+    background-color: #FF9900;
+    border: none;
+    border-radius: 4px;
+    justify-content: center;
+    align-items: center;
+}
+
 .btn-footer {
     width: 131px;
     height: 39px;
@@ -61,7 +72,10 @@
 }
 
 .video-btn {
-
+    background: none;
+    border: none;
+    color: #FF9900;
+    text-decoration: underline;
 }
 
 #tools-header {
@@ -71,7 +85,8 @@
 
 .tools {
     display: flex;
-    justify-content: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 .inner-footer {
