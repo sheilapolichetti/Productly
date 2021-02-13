@@ -64,6 +64,11 @@
 
 }
 
+#tools-header {
+    display: flex;
+    justify-content: center;
+}
+
 .tools {
     display: flex;
     justify-content: row;
