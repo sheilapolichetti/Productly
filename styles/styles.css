@@ -46,6 +46,7 @@
 
 .tools {
     display: flex;
+    justify-content: row;
 }
 
 .inner-footer {
